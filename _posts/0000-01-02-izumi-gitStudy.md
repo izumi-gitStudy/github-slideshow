@@ -2,4 +2,4 @@
 layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
-GitHubの学習中
+レビュー対応の練習
